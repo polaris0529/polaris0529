@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**polaris0529/polaris0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Polaris
 
-Here are some ideas to get you started:
+<pre>
+   ____ _ _   _    _    _     
+  / ___(_) |_| |__| |__| |__  
+ | |  _| | __| '_ \ '_ \ '_ \ 
+ | |_| | | |_| | | | | | | | |
+  \____|_|\__|_| |_|_| |_| |_|
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-polaris0529-181717?style=flat&logo=github&logoColor=white)](https://github.com/polaris0529)
+
+</div>
+
+---
+
+여기저기: 실험실 위치
+
+2025-02-06
